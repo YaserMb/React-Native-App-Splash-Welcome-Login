@@ -1,0 +1,14 @@
+com/splash_login_final/MainActivity.java
+ com.splash_login_final.MainActivity
+com/splash_login_final/ReactNativeFlipper.java
+ com.splash_login_final.ReactNativeFlipper
+ com.splash_login_final.ReactNativeFlipper$1
+ com.splash_login_final.ReactNativeFlipper$2
+ com.splash_login_final.ReactNativeFlipper$2$1
+com/splash_login_final/MainApplication.java
+ com.splash_login_final.MainApplication
+ com.splash_login_final.MainApplication$1
+com/splash_login_final/BuildConfig.java
+ com.splash_login_final.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
